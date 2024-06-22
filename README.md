@@ -50,10 +50,10 @@ Mofera Naturals is a web application that provides a link between XYZ (the given
 https://drive.google.com/file/d/1n-pEKj3-bcLcFGwR2tTHd_L5x54H7A1-/view?usp=drivesdk
 
 ## Contributors
-- [Michail Bryan Lie](https://github.com/MiBiLi501)
-- [I Kadek Gita Pradnya Widagda](https://github.com/TaigahG)
 - [Brigitte Sharon Alexander](https://github.com/brishar0n)
 - [Felix Ferdinand](https://github.com/ferd78)
+- [I Kadek Gita Pradnya Widagda](https://github.com/TaigahG)
 - [Ivandito Rakaputra](https://github.com/IvanditoRakaputra)
 - [Jeffrey (Team Leader)](https://github.com/Jeffrey9427)
+- [Michail Bryan Lie](https://github.com/MiBiLi501)
 - [Sir Tyrone Raphael Joseph Vargas](https://github.com/tyroneley)
